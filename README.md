@@ -9,7 +9,7 @@
 ##### Prerequisite
 + AWS Acccount.
 + Create Redhat EC2 Instnace.
-+ Create IAM Role With Required Polocies.
++ Create IAM Role With Required Policies.
    + VPCFullAccess
    + EC2FullAcces
    + S3FullAccess  ..etc
